@@ -1,2 +1,1 @@
-# Hylics-FR-installer
-Unofficial French patch installer for the game Hylics. Translator: Kesnos.
+Command to make executable:pyinstaller --noconsole --icon=ressources/Jeu.ico --onefile HylicsFR.py --distpath ./
